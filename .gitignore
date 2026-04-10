@@ -1,0 +1,6 @@
+.env
+__pycache__/
+venv/
+hello_ai.py
+chatbot.py
+README_old.md
