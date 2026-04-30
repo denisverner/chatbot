@@ -1,0 +1,14 @@
+LangChain je framework pro vývoj aplikací postavených na velkých jazykových modelech (LLM).
+Umožňuje vývojářům řetězit různé komponenty jako prompty, modely a nástroje do komplexních pipeline.
+
+RAG (Retrieval-Augmented Generation) je technika která kombinuje vyhledávání v dokumentech s generováním textu.
+Místo aby model odpovídal pouze ze své tréninkové paměti, nejprve vyhledá relevantní informace z externích dokumentů.
+Výsledkem jsou přesnější a aktuálnější odpovědi.
+
+Vektorové databáze ukládají text jako číselné vektory (embeddings).
+Každá věta nebo odstavec je převeden na seznam čísel které reprezentují jeho význam.
+Podobné texty mají podobné vektory — databáze tak umí najít relevantní chunky i bez přesné shody klíčových slov.
+
+FAISS je knihovna od Meta pro efektivní vyhledávání v hustých vektorech.
+Je rychlá, běží lokálně a nepotřebuje žádný externí server.
+Proto je ideální pro prototypy a portfolio projekty.

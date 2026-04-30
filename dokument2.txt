@@ -1,0 +1,11 @@
+Python je interpretovaný programovací jazyk navržený Guidem van Rossumem v roce 1991.
+Je známý svou čitelnou syntaxí a širokým ekosystémem knihoven.
+
+Mezi nejpopulárnější Python frameworky patří Django a FastAPI pro webové aplikace.
+FastAPI je moderní framework optimalizovaný pro rychlost a automatickou dokumentaci API.
+
+Virtual environment (venv) izoluje závislosti projektu od systémového Pythonu.
+Každý projekt by měl mít vlastní venv aby nedocházelo ke konfliktům mezi verzemi balíčků.
+
+pip je správce balíčků pro Python. Příkaz pip install nainstaluje balíček z PyPI.
+Soubor requirements.txt obsahuje seznam všech závislostí projektu s jejich verzemi.
